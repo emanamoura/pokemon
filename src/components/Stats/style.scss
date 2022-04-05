@@ -1,0 +1,13 @@
+.status {
+    margin-top: 1rem;
+    border-radius: 0.25rem;
+    padding: 1rem;
+    .status_content {
+        display: flex;
+        margin-top: 0.5rem;
+        padding: 0.5rem;
+        background-color: #ffffff;
+        justify-content: space-between;
+        border-radius: 0.25rem;
+    }
+}
